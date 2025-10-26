@@ -7,7 +7,7 @@ It includes a **Home Page**, **Food Menu Page**, and smooth, mobile-friendly des
 ---
 
 ## 🌐 Live Demo
-👉 [View on GitHub Pages](https://yourusername.github.io/food-menu)
+👉 [View on GitHub Pages](file:///C:/Users/pugaz/OneDrive/Desktop/CSS/foods.html)
 
 ---
 
